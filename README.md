@@ -41,4 +41,5 @@ Prints whether it is peak right now and, if so, how long until off-peak resumes;
 
 These scripts model token pricing, which is the right model for text. When the product also generates images, video or audio, per-token arithmetic stops applying and a per-run price is what you want in the budget. [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-pricing-examples&utm_content=readme-top&utm_term=tier-r) offers one REST endpoint and a Python SDK for FLUX, video and audio models, billed per run, so the media half of your cost sheet is one line per job instead of a token estimate.
 
+
 _Last reviewed: 2026-09-22_
